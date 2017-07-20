@@ -1,0 +1,12 @@
+{
+    "name": "akrav4enko/yandex-geo",
+    "authors": [
+        {
+            "name": "Alex Kravchenko",
+            "email": "krav4enko@mail.ru"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
